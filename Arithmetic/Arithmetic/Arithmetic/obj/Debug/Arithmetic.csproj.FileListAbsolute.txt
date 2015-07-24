@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Project\Arithmetic\Arithmetic\Arithmetic\bin\Debug\Arithmetic.dll
+C:\Users\User\Desktop\Project\Arithmetic\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\User\Desktop\Project\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.dll
+C:\Users\User\Desktop\Project\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb

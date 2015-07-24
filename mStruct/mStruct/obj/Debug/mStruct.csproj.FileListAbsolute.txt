@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Project\mStruct\mStruct\bin\Debug\mStruct.dll
+C:\Users\User\Desktop\Project\mStruct\mStruct\bin\Debug\mStruct.pdb
+C:\Users\User\Desktop\Project\mStruct\mStruct\obj\Debug\mStruct.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project\mStruct\mStruct\obj\Debug\mStruct.dll
+C:\Users\User\Desktop\Project\mStruct\mStruct\obj\Debug\mStruct.pdb
+C:\Users\Admin\Desktop\Project\mStruct\mStruct\bin\Debug\mStruct.dll
+C:\Users\Admin\Desktop\Project\mStruct\mStruct\bin\Debug\mStruct.pdb
+C:\Users\Admin\Desktop\Project\mStruct\mStruct\obj\Debug\mStruct.dll
+C:\Users\Admin\Desktop\Project\mStruct\mStruct\obj\Debug\mStruct.pdb
+C:\Users\Admin\Desktop\Project\mStruct\mStruct\obj\Debug\mStruct.csprojResolveAssemblyReference.cache

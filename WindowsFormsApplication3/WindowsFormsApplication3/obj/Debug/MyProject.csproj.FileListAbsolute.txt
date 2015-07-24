@@ -1,0 +1,51 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+I:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+I:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+I:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+I:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+I:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+I:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+I:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+I:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+I:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\User\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\User\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\User\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\User\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\User\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\User\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\User\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\mStruct.dll
+C:\Users\User\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\mStruct.pdb
+C:\Users\User\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\User\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\User\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\User\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\User\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\User\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\mStruct.dll
+C:\Users\User\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\mStruct.pdb
+C:\Users\User\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\User\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\User\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\mStruct.dll
+C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\mStruct.pdb
+C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MyProject.csproj.GenerateResource.Cache
