@@ -49,3 +49,14 @@ C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3
 C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
 C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
 C:\Users\Admin\Desktop\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\Parall\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Sergey\Desktop\Parall\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Sergey\Desktop\Parall\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Sergey\Desktop\Parall\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Sergey\Desktop\Parall\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Sergey\Desktop\Parall\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\mStruct.dll
+C:\Users\Sergey\Desktop\Parall\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\mStruct.pdb
+C:\Users\Sergey\Desktop\Parall\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\Parall\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Sergey\Desktop\Parall\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Sergey\Desktop\Parall\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MyProject.csproj.GenerateResource.Cache

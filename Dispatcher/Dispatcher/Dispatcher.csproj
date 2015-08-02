@@ -32,7 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Arithmetic">
+    <Reference Include="Arithmetic, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Arithmetic\Arithmetic\Arithmetic\bin\Debug\Arithmetic.dll</HintPath>
     </Reference>
     <Reference Include="mStruct, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">

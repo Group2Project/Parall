@@ -3,3 +3,8 @@ C:\Users\User\Desktop\Project\Arithmetic\Arithmetic\Arithmetic\bin\Debug\Arithme
 C:\Users\User\Desktop\Project\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\Project\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.dll
 C:\Users\User\Desktop\Project\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb
+C:\Users\Sergey\Desktop\Parall\Arithmetic\Arithmetic\Arithmetic\bin\Debug\Arithmetic.dll
+C:\Users\Sergey\Desktop\Parall\Arithmetic\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\Sergey\Desktop\Parall\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\Parall\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.dll
+C:\Users\Sergey\Desktop\Parall\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb

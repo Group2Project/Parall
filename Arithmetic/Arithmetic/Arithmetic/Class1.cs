@@ -4,56 +4,45 @@
  */
 namespace Arithmetic
 {
-    public class Arithmetic
+    public static class Arithmetic
     {
-        private dynamic a;
-        private dynamic b;
-        public Arithmetic(dynamic a, dynamic b)
-        {
-            this.a = a;
-            this.b = b;
-        }
-        public Arithmetic(dynamic a)
-        {
-            this.a = a;
-        }
-        public dynamic sum()
+        public static dynamic sum(dynamic a, dynamic b)
         {
             return a + b;
         }
-        public dynamic subtr()
+        public static dynamic subtr(dynamic a, dynamic b)
         {
             return a - b;
         }
-        public dynamic multipl()
+        public static dynamic multipl(dynamic a, dynamic b)
         {
             return a * b;
         }
-        public dynamic div()
+        public static dynamic div(dynamic a, dynamic b)
         {
             return a / b;
         }
-        public dynamic logf()
+        public static dynamic logf(dynamic a, dynamic b)
         {
             return Math.Log(a) / Math.Log(b);
         }
-        public dynamic abs()
+        public static dynamic abs(dynamic a)
         {
             return Math.Abs(a);
         }
-        public dynamic degree()
+        public static dynamic degree(dynamic a, dynamic b)
         {
             return Math.Pow(a, b);
         }
-        public dynamic root()
+        public static dynamic root(dynamic a, dynamic b)
         {
             return Math.Pow(a, 1 / b);
         }
-        public dynamic rem()
+        public static dynamic rem(dynamic a, dynamic b)
         {
             return a % b;
         }
-        public dynamic per()
+        public static dynamic per(dynamic a, dynamic b)
         {
             dynamic c = a / 100.0;
             return b / c;

@@ -46,7 +46,6 @@ namespace Dispatcher
 
                 for (int i = 0; i < 2; i++)
                     textBox1.Text = textBox1.Text +(current_el.getArg(i)).ToString();
-
                 textBox1.Text += "\r\n";
             }
         }
