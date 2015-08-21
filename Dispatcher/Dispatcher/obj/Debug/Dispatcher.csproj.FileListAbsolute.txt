@@ -27,3 +27,13 @@ C:\Users\Admin\Desktop\Project\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csproj
 C:\Users\Sergey\Desktop\Parall\Dispatcher\Dispatcher\bin\Debug\Dispatcher.exe.config
 C:\Users\Sergey\Desktop\Parall\Dispatcher\Dispatcher\obj\Debug\Dispatcher.exe
 C:\Users\Sergey\Desktop\Parall\Dispatcher\Dispatcher\obj\Debug\Dispatcher.pdb
+C:\Users\Sergey\Desktop\Parall\Dispatcher\Dispatcher\bin\Debug\Dispatcher.exe
+C:\Users\Sergey\Desktop\Parall\Dispatcher\Dispatcher\bin\Debug\Dispatcher.pdb
+C:\Users\Sergey\Desktop\Parall\Dispatcher\Dispatcher\bin\Debug\Arithmetic.dll
+C:\Users\Sergey\Desktop\Parall\Dispatcher\Dispatcher\bin\Debug\mStruct.dll
+C:\Users\Sergey\Desktop\Parall\Dispatcher\Dispatcher\bin\Debug\Arithmetic.pdb
+C:\Users\Sergey\Desktop\Parall\Dispatcher\Dispatcher\bin\Debug\mStruct.pdb
+C:\Users\Sergey\Desktop\Parall\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\Parall\Dispatcher\Dispatcher\obj\Debug\Dispatcher.Form1.resources
+C:\Users\Sergey\Desktop\Parall\Dispatcher\Dispatcher\obj\Debug\Dispatcher.Properties.Resources.resources
+C:\Users\Sergey\Desktop\Parall\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csproj.GenerateResource.Cache
